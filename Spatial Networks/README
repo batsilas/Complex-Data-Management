@@ -1,0 +1,7 @@
+Spatial Networks
+First file creates the grid which is used for nearest neighbor and window selection queries
+Observations:
+1.I use Beijing_restaurants.txt file to create the gried which contains coordinates of restaurants in Beijing.
+2.I use python 3.
+
+Developer: Athanasios Batsilas
