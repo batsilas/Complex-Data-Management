@@ -1,0 +1,11 @@
+Two algorithms for join evaluation (Merge Join by grouping, Merge Join with pipeling)
+Observations:
+1.I use imdb dataset: https://www.imdb.com/interfaces/ .
+2.There are three questions in MergeJoinPipeling.py when you run it:
+  a.mj(scan(‘title.basics.tsv’),scan(‘title.ratings.tsv’),(2),(1,2))
+  b.mj(scan(‘title.basics.tsv’),scan(‘title.principals.tsv’),(2),(2))                                                                
+  c.mj(mj(scan(‘title.basics.tsv’),scan(‘title.principals.tsv’),(2),(2)),scan(‘title.ratings.tsv’),(1,2),(1))
+ !You can ask your own questions!
+3.I use python 3. 
+
+Developer: Athanasios Batsilas
