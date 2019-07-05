@@ -1,0 +1,6 @@
+Top-k and Skyline queries
+Observations:
+1.I use an edited nba dataset: https://www.kaggle.com/drgilermo/nba-players-stats .
+2.I use python 3.
+
+Developer: Athanasios Batsilas
