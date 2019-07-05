@@ -7,5 +7,3 @@ Observations:
   c.mj(mj(scan(‘title.basics.tsv’),scan(‘title.principals.tsv’),(2),(2)),scan(‘title.ratings.tsv’),(1,2),(1))
  !You can ask your own questions!
 3.I use python 3. 
-
-Developer: Athanasios Batsilas
